@@ -1,0 +1,20 @@
+/* External CSS for excercise: class-id selectors*/
+
+.odd{
+    background-color: rgb(248, 158, 233);
+    font-family: verdana, "dejavu sans", sans-serif;
+}
+
+#num2{
+    font-size: 36px;
+    color: rgb(0, 0, 255);
+}
+
+.adj_font_size{
+    font-size: 24px;
+}
+
+#num4{
+    background-color: rgb(158, 243, 176);
+    font-weight: bold;
+}
