@@ -1,0 +1,24 @@
+/* External CSS to practice descendant combinators*/
+/* based on type-type selector
+div p{
+    font-size: 20px;
+    color: red;
+    background-color: yellow;
+    text-align: center;
+}
+*/
+/* based on class-type selector
+.container p{
+    font-size: 20px;
+    color: red;
+    background-color: yellow;
+    text-align: center;
+}
+*/ 
+/* based on class-class selector */
+.container .text{
+    font-size: 20px;
+    color: red;
+    background-color: yellow;
+    text-align: center;
+}    
